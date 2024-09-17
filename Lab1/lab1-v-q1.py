@@ -1,3 +1,10 @@
+# Ethan Chankowsky
+# SN: 20361117
+# 2024-09-20
+# Lab 1 - version for Question 1
+# I confirm that this submission is my own work and is consistent with the Queen's
+# regulations on Academic Integrity. I am the sole contributor of the modifications done.
+
 import multiprocessing
 import os
 import time
@@ -9,25 +16,26 @@ def io_bound_system_call_worker(name):
 
     # Simulate system call for I/O-bound task
     # TODO-1:
-    # 1- Print "Process {name} is entering system mode by a system-call"
-    # 2- Check the type of operating system.If it’s posix, the system is Unix - like(Linux, macOS).
-    # If it’s not, assume it’s Windows.
-    # 3- execute a system shell command to list directory
-
+    print(f"Process {name} is entering system mode by a system-call")
+    if os.name == 'posix':
+        print(f"Process {name} is executing on a Unix-like system")
+        os.system('ls')
+    else:
+        print(f"Process {name} is executing on a Windows system")
+        os.system('dir')
 
     # After system call, simulate additional I/O wait time
     # TODO-2:
-    # 4- Print "Process {name} is waiting for more I/O simulated by sleep"
-    # 5- delay the process for 5 seconds
-    # 6- Print "Process {name} with PID { } has finished I/O-bound task"
+    print(f"Process {name} is waiting for more I/O simulated by sleep")
+    time.sleep(5)
+    print(f"Process {name} with PID {os.getpid()} has finished I/O-bound task")
 
 # A function to simulate CPU-bound task (no waiting for I/O)
 def cpu_bound_task(name):
     print("Demonstrating a CPU-bound task")
-    # TODO-3:
-    # 7- Print "Process {name} with PID {  } is starting CPU-bound task.."
-    # 8- calculates the sum of all integers from 1 to 10^6 −1
-    # 9- Print "Process {name} with PID { } has finished CPU-bound task with result {   }"
+    print(f"Process {name} with PID {os.getpid()} is starting CPU-bound task..")
+    result = sum(range(1, 10**6 - 1))
+    print(f"Process {name} with PID {os.getpid()} has finished CPU-bound task with result {result}")
 
 if __name__ == "__main__":
 
@@ -39,22 +47,21 @@ if __name__ == "__main__":
     for i in range(2):  # Let's create 2 I/O-bound processes with system call
         process = multiprocessing.Process(target=io_bound_system_call_worker, args=(f'IO-Worker-{i}',))
         # TODO-4:
-        # 10- Append the process into processes
-        # 11- start the I/O-bound process
-
         processes.append(process)
         process.start()  # Start the I/O-bound process
 
     # To create CPU-bound processes (simulating CPU work)
     # TODO-5:
-    # 12- Create a number of CPU-bound processes
-    # 13- Append the process into processes
-    # 14- start the CPU-bound process
+    for i in range(2):
+        process = multiprocessing.Process(target=cpu_bound_task, args=(f'CPU-Task-{i}',))
+        processes.append(process)
+        process.start()  # Start the CPU-bound process
 
     # Wait for all processes to finish
     for process in processes:
         process.join()  # Ensure the main program waits for all processes to complete
 
     # TODO-6
-    # 15- Record the end-time of execution
-    # 16- Print "All processes finished. Total execution time: {  } seconds"
+    end_time = time.time()
+    total_execution_time = end_time - start_time
+    print(f"All processes finished. Total execution time: {total_execution_time} seconds")
