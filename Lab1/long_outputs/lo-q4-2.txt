@@ -1,0 +1,123 @@
+ethanchankowsky@16Machine Lab1 % python3 lab1-v-q4.py
+
+ -- Initial CPU usage: 6.5% 
+
+Demonstrating an 
+I/O-bound task for process IO-Worker-1 (PID: 82730) is starting...
+Process IO-Worker-1 is entering system mode by a system-call
+Process IO-Worker-1 is executing on a Unix-like system
+Demonstrating an 
+I/O-bound task for process IO-Worker-0 (PID: 82729) is starting...
+Process IO-Worker-0 is entering system mode by a system-call
+Process IO-Worker-0 is executing on a Unix-like system
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+CPU-bound task for process CPU-Task-2 with PID 82733 has finished with result 499998500001
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+CPU-bound task for process CPU-Task-0 with PID 82731 has finished with result 499998500001
+CPU-bound task for process CPU-Task-5 with PID 82736 has finished with result 499998500001
+CPU-bound task for process CPU-Task-3 with PID 82734 has finished with result 499998500001
+Process IO-Worker-0 is waiting for more I/O simulated by sleep
+Process IO-Worker-1 is waiting for more I/O simulated by sleep
+CPU-bound task for process CPU-Task-1 with PID 82732 has finished with result 499998500001
+CPU-bound task for process CPU-Task-10 with PID 82741 has finished with result 499998500001
+CPU-bound task for process CPU-Task-6 with PID 82737 has finished with result 499998500001
+CPU-bound task for process CPU-Task-4 with PID 82735 has finished with result 499998500001
+CPU-bound task for process CPU-Task-9 with PID 82740 has finished with result 499998500001
+CPU-bound task for process CPU-Task-7 with PID 82738 has finished with result 499998500001
+CPU-bound task for process CPU-Task-8 with PID 82739 has finished with result 499998500001
+CPU-bound task for process CPU-Task-13 with PID 82744 has finished with result 499998500001
+CPU-bound task for process CPU-Task-14 with PID 82745 has finished with result 499998500001
+CPU-bound task for process CPU-Task-11 with PID 82742 has finished with result 499998500001
+CPU-bound task for process CPU-Task-19 with PID 82752 has finished with result 499998500001
+CPU-bound task for process CPU-Task-18 with PID 82749 has finished with result 499998500001
+CPU-bound task for process CPU-Task-12 with PID 82743 has finished with result 499998500001
+CPU-bound task for process CPU-Task-16 with PID 82747 has finished with result 499998500001
+CPU-bound task for process CPU-Task-23 with PID 82756 has finished with result 499998500001
+CPU-bound task for process CPU-Task-22 with PID 82755 has finished with result 499998500001
+CPU-bound task for process CPU-Task-24 with PID 82757 has finished with result 499998500001
+CPU-bound task for process CPU-Task-26 with PID 82759 has finished with result 499998500001
+CPU-bound task for process CPU-Task-21 with PID 82754 has finished with result 499998500001
+CPU-bound task for process CPU-Task-17 with PID 82748 has finished with result 499998500001
+CPU-bound task for process CPU-Task-25 with PID 82758 has finished with result 499998500001
+CPU-bound task for process CPU-Task-20 with PID 82753 has finished with result 499998500001
+CPU-bound task for process CPU-Task-29 with PID 82762 has finished with result 499998500001
+CPU-bound task for process CPU-Task-15 with PID 82746 has finished with result 499998500001
+CPU-bound task for process CPU-Task-36 with PID 82770 has finished with result 499998500001
+CPU-bound task for process CPU-Task-34 with PID 82768 has finished with result 499998500001
+CPU-bound task for process CPU-Task-37 with PID 82771 has finished with result 499998500001
+CPU-bound task for process CPU-Task-38 with PID 82772 has finished with result 499998500001
+CPU-bound task for process CPU-Task-31 with PID 82764 has finished with result 499998500001
+CPU-bound task for process CPU-Task-35 with PID 82769 has finished with result 499998500001
+CPU-bound task for process CPU-Task-27 with PID 82760 has finished with result 499998500001
+CPU-bound task for process CPU-Task-30 with PID 82763 has finished with result 499998500001
+CPU-bound task for process CPU-Task-32 with PID 82765 has finished with result 499998500001
+CPU-bound task for process CPU-Task-44 with PID 82778 has finished with result 499998500001
+CPU-bound task for process CPU-Task-49 with PID 82783 has finished with result 499998500001
+CPU-bound task for process CPU-Task-41 with PID 82775 has finished with result 499998500001
+CPU-bound task for process CPU-Task-40 with PID 82774 has finished with result 499998500001
+CPU-bound task for process CPU-Task-28 with PID 82761 has finished with result 499998500001
+CPU-bound task for process CPU-Task-53 with PID 82787 has finished with result 499998500001
+CPU-bound task for process CPU-Task-54 with PID 82788 has finished with result 499998500001
+CPU-bound task for process CPU-Task-51 with PID 82785 has finished with result 499998500001
+CPU-bound task for process CPU-Task-46 with PID 82780 has finished with result 499998500001
+CPU-bound task for process CPU-Task-45 with PID 82779 has finished with result 499998500001
+CPU-bound task for process CPU-Task-42 with PID 82776 has finished with result 499998500001
+CPU-bound task for process CPU-Task-48 with PID 82782 has finished with result 499998500001
+CPU-bound task for process CPU-Task-63 with PID 82797 has finished with result 499998500001
+CPU-bound task for process CPU-Task-52 with PID 82786 has finished with result 499998500001
+CPU-bound task for process CPU-Task-43 with PID 82777 has finished with result 499998500001
+CPU-bound task for process CPU-Task-65 with PID 82799 has finished with result 499998500001
+CPU-bound task for process CPU-Task-33 with PID 82767 has finished with result 499998500001
+CPU-bound task for process CPU-Task-50 with PID 82784 has finished with result 499998500001
+CPU-bound task for process CPU-Task-39 with PID 82773 has finished with result 499998500001
+CPU-bound task for process CPU-Task-47 with PID 82781 has finished with result 499998500001
+CPU-bound task for process CPU-Task-69 with PID 82803 has finished with result 499998500001
+CPU-bound task for process CPU-Task-70 with PID 82804 has finished with result 499998500001
+CPU-bound task for process CPU-Task-71 with PID 82805 has finished with result 499998500001
+CPU-bound task for process CPU-Task-67 with PID 82801 has finished with result 499998500001
+CPU-bound task for process CPU-Task-56 with PID 82790 has finished with result 499998500001
+CPU-bound task for process CPU-Task-60 with PID 82794 has finished with result 499998500001
+CPU-bound task for process CPU-Task-62 with PID 82796 has finished with result 499998500001
+CPU-bound task for process CPU-Task-57 with PID 82791 has finished with result 499998500001
+CPU-bound task for process CPU-Task-75 with PID 82809 has finished with result 499998500001
+CPU-bound task for process CPU-Task-55 with PID 82789 has finished with result 499998500001
+CPU-bound task for process CPU-Task-77 with PID 82811 has finished with result 499998500001
+CPU-bound task for process CPU-Task-68 with PID 82802 has finished with result 499998500001
+CPU-bound task for process CPU-Task-59 with PID 82793 has finished with result 499998500001
+CPU-bound task for process CPU-Task-78 with PID 82812 has finished with result 499998500001
+CPU-bound task for process CPU-Task-79 with PID 82813 has finished with result 499998500001
+CPU-bound task for process CPU-Task-58 with PID 82792 has finished with result 499998500001
+CPU-bound task for process CPU-Task-66 with PID 82800 has finished with result 499998500001
+CPU-bound task for process CPU-Task-73 with PID 82807 has finished with result 499998500001
+CPU-bound task for process CPU-Task-83 with PID 82817 has finished with result 499998500001
+CPU-bound task for process CPU-Task-80 with PID 82814 has finished with result 499998500001
+CPU-bound task for process CPU-Task-64 with PID 82798 has finished with result 499998500001
+CPU-bound task for process CPU-Task-86 with PID 82820 has finished with result 499998500001
+CPU-bound task for process CPU-Task-72 with PID 82806 has finished with result 499998500001
+CPU-bound task for process CPU-Task-85 with PID 82819 has finished with result 499998500001
+CPU-bound task for process CPU-Task-84 with PID 82818 has finished with result 499998500001
+CPU-bound task for process CPU-Task-61 with PID 82795 has finished with result 499998500001
+CPU-bound task for process CPU-Task-81 with PID 82815 has finished with result 499998500001
+CPU-bound task for process CPU-Task-90 with PID 82824 has finished with result 499998500001
+CPU-bound task for process CPU-Task-91 with PID 82825 has finished with result 499998500001
+CPU-bound task for process CPU-Task-89 with PID 82823 has finished with result 499998500001
+CPU-bound task for process CPU-Task-74 with PID 82808 has finished with result 499998500001
+CPU-bound task for process CPU-Task-94 with PID 82828 has finished with result 499998500001
+CPU-bound task for process CPU-Task-76 with PID 82810 has finished with result 499998500001
+CPU-bound task for process CPU-Task-96 with PID 82830 has finished with result 499998500001
+CPU-bound task for process CPU-Task-82 with PID 82816 has finished with result 499998500001
+CPU-bound task for process CPU-Task-92 with PID 82826 has finished with result 499998500001
+CPU-bound task for process CPU-Task-88 with PID 82822 has finished with result 499998500001
+CPU-bound task for process CPU-Task-87 with PID 82821 has finished with result 499998500001
+CPU-bound task for process CPU-Task-99 with PID 82833 has finished with result 499998500001
+CPU-bound task for process CPU-Task-93 with PID 82827 has finished with result 499998500001
+CPU-bound task for process CPU-Task-97 with PID 82831 has finished with result 499998500001
+CPU-bound task for process CPU-Task-95 with PID 82829 has finished with result 499998500001
+CPU-bound task for process CPU-Task-98 with PID 82832 has finished with result 499998500001
+Process IO-Worker-0 with PID 82729 has finished I/O-bound task
+Process IO-Worker-1 with PID 82730 has finished I/O-bound task
+
+ -- Final CPU usage: 10.2%
+
+All processes finished. Total execution time: 8.145894765853882 seconds
+ethanchankowsky@16Machine Lab1 % 

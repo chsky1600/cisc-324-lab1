@@ -1,0 +1,710 @@
+ethanchankowsky@16Machine Lab1 % python3 lab1-v-q4.py
+
+ -- Initial CPU usage: 11.9% 
+
+Demonstrating an 
+I/O-bound task for process IO-Worker-2 (PID: 74008) is starting...
+Process IO-Worker-2 is entering system mode by a system-call
+Process IO-Worker-2 is executing on a Unix-like system
+Demonstrating an 
+I/O-bound task for process IO-Worker-1 (PID: 74007) is starting...
+Process IO-Worker-1 is entering system mode by a system-call
+Process IO-Worker-1 is executing on a Unix-like system
+Demonstrating an 
+I/O-bound task for process IO-Worker-4 (PID: 74010) is starting...
+Process IO-Worker-4 is entering system mode by a system-call
+Process IO-Worker-4 is executing on a Unix-like system
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Demonstrating an 
+I/O-bound task for process IO-Worker-3 (PID: 74009) is starting...
+Process IO-Worker-3 is entering system mode by a system-call
+Process IO-Worker-3 is executing on a Unix-like system
+Process IO-Worker-2 is waiting for more I/O simulated by sleep
+Demonstrating an 
+I/O-bound task for process IO-Worker-0 (PID: 74006) is starting...
+Process IO-Worker-0 is entering system mode by a system-call
+Process IO-Worker-0 is executing on a Unix-like system
+Demonstrating an 
+I/O-bound task for process IO-Worker-8 (PID: 74014) is starting...
+Process IO-Worker-8 is entering system mode by a system-call
+Process IO-Worker-8 is executing on a Unix-like system
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Demonstrating an 
+I/O-bound task for process IO-Worker-6 (PID: 74012) is starting...
+Process IO-Worker-6 is entering system mode by a system-call
+Process IO-Worker-6 is executing on a Unix-like system
+Process IO-Worker-4 is waiting for more I/O simulated by sleep
+Demonstrating an 
+I/O-bound task for process IO-Worker-11 (PID: 74017) is starting...
+Process IO-Worker-11 is entering system mode by a system-call
+Process IO-Worker-11 is executing on a Unix-like system
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Demonstrating an 
+I/O-bound task for process IO-Worker-16 (PID: 74022) is starting...
+Process IO-Worker-16 is entering system mode by a system-call
+Process IO-Worker-16 is executing on a Unix-like system
+Process IO-Worker-1 is waiting for more I/O simulated by sleep
+Demonstrating an 
+I/O-bound task for process IO-Worker-9 (PID: 74015) is starting...
+Process IO-Worker-9 is entering system mode by a system-call
+Process IO-Worker-9 is executing on a Unix-like system
+Demonstrating an 
+I/O-bound task for process IO-Worker-10 (PID: 74016) is starting...
+Process IO-Worker-10 is entering system mode by a system-call
+Process IO-Worker-10 is executing on a Unix-like system
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-8 is waiting for more I/O simulated by sleep
+Demonstrating an 
+I/O-bound task for process IO-Worker-17 (PID: 74023) is starting...
+Process IO-Worker-17 is entering system mode by a system-call
+Process IO-Worker-17 is executing on a Unix-like system
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Demonstrating an 
+I/O-bound task for process IO-Worker-15 (PID: 74021) is starting...
+Process IO-Worker-15 is entering system mode by a system-call
+Process IO-Worker-15 is executing on a Unix-like system
+Demonstrating an 
+I/O-bound task for process IO-Worker-14 (PID: 74020) is starting...
+Process IO-Worker-14 is entering system mode by a system-call
+Process IO-Worker-14 is executing on a Unix-like system
+Demonstrating an 
+I/O-bound task for process IO-Worker-5 (PID: 74011) is starting...
+Process IO-Worker-5 is entering system mode by a system-call
+Process IO-Worker-5 is executing on a Unix-like system
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-3 is waiting for more I/O simulated by sleep
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-0 is waiting for more I/O simulated by sleep
+Process IO-Worker-6 is waiting for more I/O simulated by sleep
+Process IO-Worker-16 is waiting for more I/O simulated by sleep
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Demonstrating an 
+I/O-bound task for process IO-Worker-12 (PID: 74018) is starting...
+Process IO-Worker-12 is entering system mode by a system-call
+Process IO-Worker-12 is executing on a Unix-like system
+Process IO-Worker-10 is waiting for more I/O simulated by sleep
+Demonstrating an 
+I/O-bound task for process IO-Worker-7 (PID: 74013) is starting...
+Process IO-Worker-7 is entering system mode by a system-call
+Process IO-Worker-7 is executing on a Unix-like system
+Process IO-Worker-9 is waiting for more I/O simulated by sleep
+Process IO-Worker-11 is waiting for more I/O simulated by sleep
+Demonstrating an 
+I/O-bound task for process IO-Worker-18 (PID: 74024) is starting...
+Process IO-Worker-18 is entering system mode by a system-call
+Process IO-Worker-18 is executing on a Unix-like system
+Demonstrating an 
+I/O-bound task for process IO-Worker-13 (PID: 74019) is starting...
+Process IO-Worker-13 is entering system mode by a system-call
+Process IO-Worker-13 is executing on a Unix-like system
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Demonstrating an 
+I/O-bound task for process IO-Worker-20 (PID: 74026) is starting...
+Process IO-Worker-20 is entering system mode by a system-call
+Process IO-Worker-20 is executing on a Unix-like system
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-5 is waiting for more I/O simulated by sleep
+Process IO-Worker-17 is waiting for more I/O simulated by sleep
+Process IO-Worker-14 is waiting for more I/O simulated by sleep
+Process IO-Worker-15 is waiting for more I/O simulated by sleep
+Process IO-Worker-18 is waiting for more I/O simulated by sleep
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-12 is waiting for more I/O simulated by sleep
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-20 is waiting for more I/O simulated by sleep
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-7 is waiting for more I/O simulated by sleep
+Process IO-Worker-13 is waiting for more I/O simulated by sleep
+Demonstrating an 
+I/O-bound task for process IO-Worker-24 (PID: 74033) is starting...
+Process IO-Worker-24 is entering system mode by a system-call
+Process IO-Worker-24 is executing on a Unix-like system
+Demonstrating an 
+I/O-bound task for process IO-Worker-19 (PID: 74025) is starting...
+Process IO-Worker-19 is entering system mode by a system-call
+Process IO-Worker-19 is executing on a Unix-like system
+Demonstrating an 
+I/O-bound task for process IO-Worker-27 (PID: 74041) is starting...
+Process IO-Worker-27 is entering system mode by a system-call
+Process IO-Worker-27 is executing on a Unix-like system
+Demonstrating an 
+I/O-bound task for process IO-Worker-23 (PID: 74030) is starting...
+Process IO-Worker-23 is entering system mode by a system-call
+Process IO-Worker-23 is executing on a Unix-like system
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-23 is waiting for more I/O simulated by sleep
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Demonstrating an 
+I/O-bound task for process IO-Worker-21 (PID: 74027) is starting...
+Process IO-Worker-21 is entering system mode by a system-call
+Process IO-Worker-21 is executing on a Unix-like system
+Process IO-Worker-24 is waiting for more I/O simulated by sleep
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-19 is waiting for more I/O simulated by sleep
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-27 is waiting for more I/O simulated by sleep
+Demonstrating an 
+I/O-bound task for process IO-Worker-26 (PID: 74039) is starting...
+Process IO-Worker-26 is entering system mode by a system-call
+Process IO-Worker-26 is executing on a Unix-like system
+Demonstrating an 
+I/O-bound task for process IO-Worker-29 (PID: 74045) is starting...
+Process IO-Worker-29 is entering system mode by a system-call
+Process IO-Worker-29 is executing on a Unix-like system
+Demonstrating an 
+I/O-bound task for process IO-Worker-30 (PID: 74048) is starting...
+Process IO-Worker-30 is entering system mode by a system-call
+Process IO-Worker-30 is executing on a Unix-like system
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Demonstrating an 
+I/O-bound task for process IO-Worker-28 (PID: 74043) is starting...
+Process IO-Worker-28 is entering system mode by a system-call
+Process IO-Worker-28 is executing on a Unix-like system
+Process IO-Worker-21 is waiting for more I/O simulated by sleep
+Demonstrating an 
+I/O-bound task for process IO-Worker-35 (PID: 74058) is starting...
+Process IO-Worker-35 is entering system mode by a system-call
+Process IO-Worker-35 is executing on a Unix-like system
+Demonstrating an 
+I/O-bound task for process IO-Worker-22 (PID: 74029) is starting...
+Process IO-Worker-22 is entering system mode by a system-call
+Process IO-Worker-22 is executing on a Unix-like system
+Demonstrating an 
+I/O-bound task for process IO-Worker-32 (PID: 74050) is starting...
+Process IO-Worker-32 is entering system mode by a system-call
+Process IO-Worker-32 is executing on a Unix-like system
+Demonstrating an 
+I/O-bound task for process IO-Worker-25 (PID: 74036) is starting...
+Process IO-Worker-25 is entering system mode by a system-call
+Process IO-Worker-25 is executing on a Unix-like system
+Demonstrating an 
+I/O-bound task for process IO-Worker-33 (PID: 74054) is starting...
+Process IO-Worker-33 is entering system mode by a system-call
+Process IO-Worker-33 is executing on a Unix-like system
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Demonstrating an 
+I/O-bound task for process IO-Worker-34 (PID: 74055) is starting...
+Process IO-Worker-34 is entering system mode by a system-call
+Process IO-Worker-34 is executing on a Unix-like system
+Process IO-Worker-29 is waiting for more I/O simulated by sleep
+Demonstrating an 
+I/O-bound task for process IO-Worker-37 (PID: 74062) is starting...
+Process IO-Worker-37 is entering system mode by a system-call
+Process IO-Worker-37 is executing on a Unix-like system
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-30 is waiting for more I/O simulated by sleep
+Demonstrating an 
+I/O-bound task for process IO-Worker-31 (PID: 74049) is starting...
+Process IO-Worker-31 is entering system mode by a system-call
+Process IO-Worker-31 is executing on a Unix-like system
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Demonstrating an 
+I/O-bound task for process IO-Worker-36 (PID: 74061) is starting...
+Process IO-Worker-36 is entering system mode by a system-call
+Process IO-Worker-36 is executing on a Unix-like system
+Demonstrating an 
+I/O-bound task for process IO-Worker-43 (PID: 74074) is starting...
+Process IO-Worker-43 is entering system mode by a system-call
+Process IO-Worker-43 is executing on a Unix-like system
+Process IO-Worker-28 is waiting for more I/O simulated by sleep
+Demonstrating an 
+I/O-bound task for process IO-Worker-39 (PID: 74066) is starting...
+Process IO-Worker-39 is entering system mode by a system-call
+Process IO-Worker-39 is executing on a Unix-like system
+Demonstrating an 
+I/O-bound task for process IO-Worker-41 (PID: 74068) is starting...
+Process IO-Worker-41 is entering system mode by a system-call
+Process IO-Worker-41 is executing on a Unix-like system
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-35 is waiting for more I/O simulated by sleep
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-26 is waiting for more I/O simulated by sleep
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-32 is waiting for more I/O simulated by sleep
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-22 is waiting for more I/O simulated by sleep
+Demonstrating an 
+I/O-bound task for process IO-Worker-42 (PID: 74073) is starting...
+Process IO-Worker-42 is entering system mode by a system-call
+Process IO-Worker-42 is executing on a Unix-like system
+Demonstrating an 
+I/O-bound task for process IO-Worker-45 (PID: 74077) is starting...
+Process IO-Worker-45 is entering system mode by a system-call
+Process IO-Worker-45 is executing on a Unix-like system
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-33 is waiting for more I/O simulated by sleep
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-37 is waiting for more I/O simulated by sleep
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-39 is waiting for more I/O simulated by sleep
+Process IO-Worker-43 is waiting for more I/O simulated by sleep
+Demonstrating an 
+I/O-bound task for process IO-Worker-46 (PID: 74079) is starting...
+Process IO-Worker-46 is entering system mode by a system-call
+Process IO-Worker-46 is executing on a Unix-like system
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Demonstrating an 
+I/O-bound task for process IO-Worker-38 (PID: 74065) is starting...
+Process IO-Worker-38 is entering system mode by a system-call
+Process IO-Worker-38 is executing on a Unix-like system
+Process IO-Worker-34 is waiting for more I/O simulated by sleep
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Demonstrating an 
+I/O-bound task for process IO-Worker-51 (PID: 74092) is starting...
+Process IO-Worker-51 is entering system mode by a system-call
+Process IO-Worker-51 is executing on a Unix-like system
+Process IO-Worker-25 is waiting for more I/O simulated by sleep
+Demonstrating an 
+I/O-bound task for process IO-Worker-54 (PID: 74096) is starting...
+Process IO-Worker-54 is entering system mode by a system-call
+Process IO-Worker-54 is executing on a Unix-like system
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-31 is waiting for more I/O simulated by sleep
+Demonstrating an 
+I/O-bound task for process IO-Worker-49 (PID: 74088) is starting...
+Process IO-Worker-49 is entering system mode by a system-call
+Process IO-Worker-49 is executing on a Unix-like system
+Demonstrating an 
+I/O-bound task for process IO-Worker-50 (PID: 74091) is starting...
+Process IO-Worker-50 is entering system mode by a system-call
+Process IO-Worker-50 is executing on a Unix-like system
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-42 is waiting for more I/O simulated by sleep
+Demonstrating an 
+I/O-bound task for process IO-Worker-52 (PID: 74094) is starting...
+Process IO-Worker-52 is entering system mode by a system-call
+Process IO-Worker-52 is executing on a Unix-like system
+Demonstrating an 
+I/O-bound task for process IO-Worker-57 (PID: 74100) is starting...
+Process IO-Worker-57 is entering system mode by a system-call
+Process IO-Worker-57 is executing on a Unix-like system
+Demonstrating an 
+I/O-bound task for process IO-Worker-44 (PID: 74075) is starting...
+Process IO-Worker-44 is entering system mode by a system-call
+Process IO-Worker-44 is executing on a Unix-like system
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Demonstrating an 
+I/O-bound task for process IO-Worker-40 (PID: 74067) is starting...
+Process IO-Worker-40 is entering system mode by a system-call
+Process IO-Worker-40 is executing on a Unix-like system
+Demonstrating an 
+I/O-bound task for process IO-Worker-48 (PID: 74083) is starting...
+Process IO-Worker-48 is entering system mode by a system-call
+Process IO-Worker-48 is executing on a Unix-like system
+Demonstrating an 
+I/O-bound task for process IO-Worker-55 (PID: 74098) is starting...
+Process IO-Worker-55 is entering system mode by a system-call
+Process IO-Worker-55 is executing on a Unix-like system
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-38 is waiting for more I/O simulated by sleep
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-45 is waiting for more I/O simulated by sleep
+Process IO-Worker-36 is waiting for more I/O simulated by sleep
+Demonstrating an 
+I/O-bound task for process IO-Worker-47 (PID: 74080) is starting...
+Process IO-Worker-47 is entering system mode by a system-call
+Process IO-Worker-47 is executing on a Unix-like system
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-46 is waiting for more I/O simulated by sleep
+Process IO-Worker-51 is waiting for more I/O simulated by sleep
+Demonstrating an 
+I/O-bound task for process IO-Worker-60 (PID: 74104) is starting...
+Process IO-Worker-60 is entering system mode by a system-call
+Process IO-Worker-60 is executing on a Unix-like system
+Demonstrating an 
+I/O-bound task for process IO-Worker-59 (PID: 74103) is starting...
+Process IO-Worker-59 is entering system mode by a system-call
+Process IO-Worker-59 is executing on a Unix-like system
+Process IO-Worker-41 is waiting for more I/O simulated by sleep
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-54 is waiting for more I/O simulated by sleep
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Demonstrating an 
+I/O-bound task for process IO-Worker-53 (PID: 74095) is starting...
+Process IO-Worker-53 is entering system mode by a system-call
+Process IO-Worker-53 is executing on a Unix-like system
+Process IO-Worker-50 is waiting for more I/O simulated by sleep
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-40 is waiting for more I/O simulated by sleep
+Process IO-Worker-57 is waiting for more I/O simulated by sleep
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-44 is waiting for more I/O simulated by sleep
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-60 is waiting for more I/O simulated by sleep
+Process IO-Worker-52 is waiting for more I/O simulated by sleep
+Process IO-Worker-49 is waiting for more I/O simulated by sleep
+Demonstrating an 
+I/O-bound task for process IO-Worker-65 (PID: 74114) is starting...
+Process IO-Worker-65 is entering system mode by a system-call
+Process IO-Worker-65 is executing on a Unix-like system
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Demonstrating an 
+I/O-bound task for process IO-Worker-66 (PID: 74116) is starting...
+Process IO-Worker-66 is entering system mode by a system-call
+Process IO-Worker-66 is executing on a Unix-like system
+Process IO-Worker-59 is waiting for more I/O simulated by sleep
+Demonstrating an 
+I/O-bound task for process IO-Worker-61 (PID: 74107) is starting...
+Process IO-Worker-61 is entering system mode by a system-call
+Process IO-Worker-61 is executing on a Unix-like system
+Demonstrating an 
+I/O-bound task for process IO-Worker-68 (PID: 74120) is starting...
+Process IO-Worker-68 is entering system mode by a system-call
+Process IO-Worker-68 is executing on a Unix-like system
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Demonstrating an 
+I/O-bound task for process IO-Worker-69 (PID: 74122) is starting...
+Process IO-Worker-69 is entering system mode by a system-call
+Process IO-Worker-69 is executing on a Unix-like system
+Process IO-Worker-48 is waiting for more I/O simulated by sleep
+Demonstrating an 
+I/O-bound task for process IO-Worker-67 (PID: 74117) is starting...
+Process IO-Worker-67 is entering system mode by a system-call
+Process IO-Worker-67 is executing on a Unix-like system
+Process IO-Worker-47 is waiting for more I/O simulated by sleep
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Demonstrating an 
+I/O-bound task for process IO-Worker-71 (PID: 74127) is starting...
+Process IO-Worker-71 is entering system mode by a system-call
+Process IO-Worker-71 is executing on a Unix-like system
+Process IO-Worker-55 is waiting for more I/O simulated by sleep
+Demonstrating an 
+I/O-bound task for process IO-Worker-56 (PID: 74099) is starting...
+Process IO-Worker-56 is entering system mode by a system-call
+Process IO-Worker-56 is executing on a Unix-like system
+Demonstrating an 
+I/O-bound task for process IO-Worker-72 (PID: 74128) is starting...
+Process IO-Worker-72 is entering system mode by a system-call
+Process IO-Worker-72 is executing on a Unix-like system
+Demonstrating an 
+I/O-bound task for process IO-Worker-74 (PID: 74132) is starting...
+Process IO-Worker-74 is entering system mode by a system-call
+Process IO-Worker-74 is executing on a Unix-like system
+Demonstrating an 
+I/O-bound task for process IO-Worker-62 (PID: 74110) is starting...
+Process IO-Worker-62 is entering system mode by a system-call
+Process IO-Worker-62 is executing on a Unix-like system
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-74 is waiting for more I/O simulated by sleep
+Process IO-Worker-72 is waiting for more I/O simulated by sleep
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-65 is waiting for more I/O simulated by sleep
+Process IO-Worker-53 is waiting for more I/O simulated by sleep
+Process IO-Worker-66 is waiting for more I/O simulated by sleep
+Process IO-Worker-69 is waiting for more I/O simulated by sleep
+Process IO-Worker-71 is waiting for more I/O simulated by sleep
+Demonstrating an 
+I/O-bound task for process IO-Worker-64 (PID: 74112) is starting...
+Process IO-Worker-64 is entering system mode by a system-call
+Process IO-Worker-64 is executing on a Unix-like system
+Process IO-Worker-68 is waiting for more I/O simulated by sleep
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-61 is waiting for more I/O simulated by sleep
+Process IO-Worker-62 is waiting for more I/O simulated by sleep
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Demonstrating an 
+I/O-bound task for process IO-Worker-79 (PID: 74145) is starting...
+Process IO-Worker-79 is entering system mode by a system-call
+Process IO-Worker-79 is executing on a Unix-like system
+Demonstrating an 
+I/O-bound task for process IO-Worker-77 (PID: 74142) is starting...
+Process IO-Worker-77 is entering system mode by a system-call
+Process IO-Worker-77 is executing on a Unix-like system
+Process IO-Worker-56 is waiting for more I/O simulated by sleep
+Process IO-Worker-67 is waiting for more I/O simulated by sleep
+Demonstrating an 
+I/O-bound task for process IO-Worker-80 (PID: 74146) is starting...
+Process IO-Worker-80 is entering system mode by a system-call
+Process IO-Worker-80 is executing on a Unix-like system
+Demonstrating an 
+I/O-bound task for process IO-Worker-81 (PID: 74147) is starting...
+Process IO-Worker-81 is entering system mode by a system-call
+Process IO-Worker-81 is executing on a Unix-like system
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-64 is waiting for more I/O simulated by sleep
+Demonstrating an 
+I/O-bound task for process IO-Worker-78 (PID: 74144) is starting...
+Process IO-Worker-78 is entering system mode by a system-call
+Process IO-Worker-78 is executing on a Unix-like system
+Demonstrating an 
+I/O-bound task for process IO-Worker-73 (PID: 74129) is starting...
+Process IO-Worker-73 is entering system mode by a system-call
+Process IO-Worker-73 is executing on a Unix-like system
+Demonstrating an 
+I/O-bound task for process IO-Worker-82 (PID: 74148) is starting...
+Process IO-Worker-82 is entering system mode by a system-call
+Process IO-Worker-82 is executing on a Unix-like system
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Demonstrating an 
+I/O-bound task for process IO-Worker-89 (PID: 74161) is starting...
+Process IO-Worker-89 is entering system mode by a system-call
+Process IO-Worker-89 is executing on a Unix-like system
+Process IO-Worker-79 is waiting for more I/O simulated by sleep
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-77 is waiting for more I/O simulated by sleep
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-81 is waiting for more I/O simulated by sleep
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Demonstrating an 
+I/O-bound task for process IO-Worker-83 (PID: 74149) is starting...
+Process IO-Worker-83 is entering system mode by a system-call
+Process IO-Worker-83 is executing on a Unix-like system
+Process IO-Worker-80 is waiting for more I/O simulated by sleep
+Demonstrating an 
+I/O-bound task for process IO-Worker-86 (PID: 74156) is starting...
+Process IO-Worker-86 is entering system mode by a system-call
+Process IO-Worker-86 is executing on a Unix-like system
+Demonstrating an 
+I/O-bound task for process IO-Worker-87 (PID: 74157) is starting...
+Process IO-Worker-87 is entering system mode by a system-call
+Process IO-Worker-87 is executing on a Unix-like system
+Demonstrating an 
+I/O-bound task for process IO-Worker-84 (PID: 74151) is starting...
+Process IO-Worker-84 is entering system mode by a system-call
+Process IO-Worker-84 is executing on a Unix-like system
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-82 is waiting for more I/O simulated by sleep
+Process IO-Worker-73 is waiting for more I/O simulated by sleep
+Demonstrating an 
+I/O-bound task for process IO-Worker-85 (PID: 74152) is starting...
+Process IO-Worker-85 is entering system mode by a system-call
+Process IO-Worker-85 is executing on a Unix-like system
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-89 is waiting for more I/O simulated by sleep
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-83 is waiting for more I/O simulated by sleep
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-87 is waiting for more I/O simulated by sleep
+Demonstrating an 
+I/O-bound task for process IO-Worker-63 (PID: 74111) is starting...
+Process IO-Worker-63 is entering system mode by a system-call
+Process IO-Worker-63 is executing on a Unix-like system
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Demonstrating an 
+I/O-bound task for process IO-Worker-58 (PID: 74102) is starting...
+Process IO-Worker-58 is entering system mode by a system-call
+Process IO-Worker-58 is executing on a Unix-like system
+Demonstrating an 
+I/O-bound task for process IO-Worker-90 (PID: 74163) is starting...
+Process IO-Worker-90 is entering system mode by a system-call
+Process IO-Worker-90 is executing on a Unix-like system
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-86 is waiting for more I/O simulated by sleep
+Demonstrating an 
+I/O-bound task for process IO-Worker-88 (PID: 74158) is starting...
+Process IO-Worker-88 is entering system mode by a system-call
+Process IO-Worker-88 is executing on a Unix-like system
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-84 is waiting for more I/O simulated by sleep
+Process IO-Worker-85 is waiting for more I/O simulated by sleep
+Process IO-Worker-78 is waiting for more I/O simulated by sleep
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-58 is waiting for more I/O simulated by sleep
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-63 is waiting for more I/O simulated by sleep
+Demonstrating an 
+I/O-bound task for process IO-Worker-75 (PID: 74137) is starting...
+Process IO-Worker-75 is entering system mode by a system-call
+Process IO-Worker-75 is executing on a Unix-like system
+Process IO-Worker-90 is waiting for more I/O simulated by sleep
+Process IO-Worker-88 is waiting for more I/O simulated by sleep
+Demonstrating an 
+I/O-bound task for process IO-Worker-70 (PID: 74125) is starting...
+Process IO-Worker-70 is entering system mode by a system-call
+Process IO-Worker-70 is executing on a Unix-like system
+Demonstrating an 
+I/O-bound task for process IO-Worker-92 (PID: 74170) is starting...
+Process IO-Worker-92 is entering system mode by a system-call
+Process IO-Worker-92 is executing on a Unix-like system
+Demonstrating an 
+I/O-bound task for process IO-Worker-76 (PID: 74140) is starting...
+Process IO-Worker-76 is entering system mode by a system-call
+Process IO-Worker-76 is executing on a Unix-like system
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-75 is waiting for more I/O simulated by sleep
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-70 is waiting for more I/O simulated by sleep
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Demonstrating an 
+I/O-bound task for process IO-Worker-91 (PID: 74168) is starting...
+Process IO-Worker-91 is entering system mode by a system-call
+Process IO-Worker-91 is executing on a Unix-like system
+Process IO-Worker-76 is waiting for more I/O simulated by sleep
+Demonstrating an 
+I/O-bound task for process IO-Worker-93 (PID: 74171) is starting...
+Process IO-Worker-93 is entering system mode by a system-call
+Process IO-Worker-93 is executing on a Unix-like system
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Demonstrating an 
+I/O-bound task for process IO-Worker-95 (PID: 74180) is starting...
+Process IO-Worker-95 is entering system mode by a system-call
+Process IO-Worker-95 is executing on a Unix-like system
+Process IO-Worker-92 is waiting for more I/O simulated by sleep
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-91 is waiting for more I/O simulated by sleep
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-93 is waiting for more I/O simulated by sleep
+Demonstrating an 
+I/O-bound task for process IO-Worker-94 (PID: 74176) is starting...
+Process IO-Worker-94 is entering system mode by a system-call
+Process IO-Worker-94 is executing on a Unix-like system
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-95 is waiting for more I/O simulated by sleep
+Demonstrating an 
+I/O-bound task for process IO-Worker-96 (PID: 74182) is starting...
+Process IO-Worker-96 is entering system mode by a system-call
+Process IO-Worker-96 is executing on a Unix-like system
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-94 is waiting for more I/O simulated by sleep
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-96 is waiting for more I/O simulated by sleep
+Demonstrating an 
+I/O-bound task for process IO-Worker-98 (PID: 74188) is starting...
+Process IO-Worker-98 is entering system mode by a system-call
+Process IO-Worker-98 is executing on a Unix-like system
+Demonstrating an 
+I/O-bound task for process IO-Worker-97 (PID: 74183) is starting...
+Process IO-Worker-97 is entering system mode by a system-call
+Process IO-Worker-97 is executing on a Unix-like system
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-98 is waiting for more I/O simulated by sleep
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-97 is waiting for more I/O simulated by sleep
+Demonstrating an 
+I/O-bound task for process IO-Worker-99 (PID: 74193) is starting...
+Process IO-Worker-99 is entering system mode by a system-call
+Process IO-Worker-99 is executing on a Unix-like system
+lab1-v-q1.py    lab1-v-q2.py    lab1-v-q3.py    lab1-v-q4.py    long_outputs
+Process IO-Worker-99 is waiting for more I/O simulated by sleep
+CPU-bound task for process CPU-Task-1 with PID 74197 has finished with result 499998500001
+CPU-bound task for process CPU-Task-0 with PID 74196 has finished with result 499998500001
+Process IO-Worker-2 with PID 74008 has finished I/O-bound task
+Process IO-Worker-4 with PID 74010 has finished I/O-bound task
+Process IO-Worker-1 with PID 74007 has finished I/O-bound task
+Process IO-Worker-8 with PID 74014 has finished I/O-bound task
+Process IO-Worker-3 with PID 74009 has finished I/O-bound task
+Process IO-Worker-6 with PID 74012 has finished I/O-bound task
+Process IO-Worker-16 with PID 74022 has finished I/O-bound task
+Process IO-Worker-0 with PID 74006 has finished I/O-bound task
+Process IO-Worker-10 with PID 74016 has finished I/O-bound task
+Process IO-Worker-9 with PID 74015 has finished I/O-bound task
+Process IO-Worker-11 with PID 74017 has finished I/O-bound task
+Process IO-Worker-17 with PID 74023 has finished I/O-bound task
+Process IO-Worker-5 with PID 74011 has finished I/O-bound task
+Process IO-Worker-18 with PID 74024 has finished I/O-bound task
+Process IO-Worker-15 with PID 74021 has finished I/O-bound task
+Process IO-Worker-14 with PID 74020 has finished I/O-bound task
+Process IO-Worker-20 with PID 74026 has finished I/O-bound task
+Process IO-Worker-12 with PID 74018 has finished I/O-bound task
+Process IO-Worker-13 with PID 74019 has finished I/O-bound task
+Process IO-Worker-7 with PID 74013 has finished I/O-bound task
+Process IO-Worker-23 with PID 74030 has finished I/O-bound task
+Process IO-Worker-19 with PID 74025 has finished I/O-bound task
+Process IO-Worker-24 with PID 74033 has finished I/O-bound task
+Process IO-Worker-27 with PID 74041 has finished I/O-bound task
+Process IO-Worker-21 with PID 74027 has finished I/O-bound task
+Process IO-Worker-29 with PID 74045 has finished I/O-bound task
+Process IO-Worker-30 with PID 74048 has finished I/O-bound task
+Process IO-Worker-35 with PID 74058 has finished I/O-bound task
+Process IO-Worker-28 with PID 74043 has finished I/O-bound task
+Process IO-Worker-26 with PID 74039 has finished I/O-bound task
+Process IO-Worker-32 with PID 74050 has finished I/O-bound task
+Process IO-Worker-22 with PID 74029 has finished I/O-bound task
+Process IO-Worker-33 with PID 74054 has finished I/O-bound task
+Process IO-Worker-37 with PID 74062 has finished I/O-bound task
+Process IO-Worker-39 with PID 74066 has finished I/O-bound task
+Process IO-Worker-43 with PID 74074 has finished I/O-bound task
+Process IO-Worker-34 with PID 74055 has finished I/O-bound task
+Process IO-Worker-25 with PID 74036 has finished I/O-bound task
+Process IO-Worker-31 with PID 74049 has finished I/O-bound task
+Process IO-Worker-42 with PID 74073 has finished I/O-bound task
+Process IO-Worker-36 with PID 74061 has finished I/O-bound task
+Process IO-Worker-46 with PID 74079 has finished I/O-bound task
+Process IO-Worker-38 with PID 74065 has finished I/O-bound task
+Process IO-Worker-45 with PID 74077 has finished I/O-bound task
+Process IO-Worker-51 with PID 74092 has finished I/O-bound task
+Process IO-Worker-54 with PID 74096 has finished I/O-bound task
+Process IO-Worker-41 with PID 74068 has finished I/O-bound task
+Process IO-Worker-50 with PID 74091 has finished I/O-bound task
+Process IO-Worker-40 with PID 74067 has finished I/O-bound task
+Process IO-Worker-57 with PID 74100 has finished I/O-bound task
+Process IO-Worker-44 with PID 74075 has finished I/O-bound task
+Process IO-Worker-49 with PID 74088 has finished I/O-bound task
+Process IO-Worker-52 with PID 74094 has finished I/O-bound task
+Process IO-Worker-60 with PID 74104 has finished I/O-bound task
+Process IO-Worker-59 with PID 74103 has finished I/O-bound task
+Process IO-Worker-48 with PID 74083 has finished I/O-bound task
+Process IO-Worker-47 with PID 74080 has finished I/O-bound task
+Process IO-Worker-55 with PID 74098 has finished I/O-bound task
+Process IO-Worker-72 with PID 74128 has finished I/O-bound task
+Process IO-Worker-74 with PID 74132 has finished I/O-bound task
+Process IO-Worker-71 with PID 74127 has finished I/O-bound task
+Process IO-Worker-65 with PID 74114 has finished I/O-bound task
+Process IO-Worker-53 with PID 74095 has finished I/O-bound task
+Process IO-Worker-66 with PID 74116 has finished I/O-bound task
+Process IO-Worker-69 with PID 74122 has finished I/O-bound task
+Process IO-Worker-68 with PID 74120 has finished I/O-bound task
+Process IO-Worker-62 with PID 74110 has finished I/O-bound task
+Process IO-Worker-61 with PID 74107 has finished I/O-bound task
+Process IO-Worker-67 with PID 74117 has finished I/O-bound task
+Process IO-Worker-56 with PID 74099 has finished I/O-bound task
+Process IO-Worker-64 with PID 74112 has finished I/O-bound task
+Process IO-Worker-79 with PID 74145 has finished I/O-bound task
+Process IO-Worker-77 with PID 74142 has finished I/O-bound task
+Process IO-Worker-81 with PID 74147 has finished I/O-bound task
+Process IO-Worker-80 with PID 74146 has finished I/O-bound task
+Process IO-Worker-82 with PID 74148 has finished I/O-bound task
+Process IO-Worker-73 with PID 74129 has finished I/O-bound task
+Process IO-Worker-89 with PID 74161 has finished I/O-bound task
+Process IO-Worker-83 with PID 74149 has finished I/O-bound task
+Process IO-Worker-87 with PID 74157 has finished I/O-bound task
+Process IO-Worker-86 with PID 74156 has finished I/O-bound task
+Process IO-Worker-84 with PID 74151 has finished I/O-bound task
+Process IO-Worker-85 with PID 74152 has finished I/O-bound task
+Process IO-Worker-78 with PID 74144 has finished I/O-bound task
+Process IO-Worker-58 with PID 74102 has finished I/O-bound task
+Process IO-Worker-63 with PID 74111 has finished I/O-bound task
+Process IO-Worker-90 with PID 74163 has finished I/O-bound task
+Process IO-Worker-88 with PID 74158 has finished I/O-bound task
+Process IO-Worker-75 with PID 74137 has finished I/O-bound task
+Process IO-Worker-70 with PID 74125 has finished I/O-bound task
+Process IO-Worker-76 with PID 74140 has finished I/O-bound task
+Process IO-Worker-91 with PID 74168 has finished I/O-bound task
+Process IO-Worker-92 with PID 74170 has finished I/O-bound task
+Process IO-Worker-93 with PID 74171 has finished I/O-bound task
+Process IO-Worker-95 with PID 74180 has finished I/O-bound task
+Process IO-Worker-96 with PID 74182 has finished I/O-bound task
+Process IO-Worker-94 with PID 74176 has finished I/O-bound task
+Process IO-Worker-98 with PID 74188 has finished I/O-bound task
+Process IO-Worker-97 with PID 74183 has finished I/O-bound task
+Process IO-Worker-99 with PID 74193 has finished I/O-bound task
+
+ -- Final CPU usage: 12.5%
+
+All processes finished. Total execution time: 4.593503952026367 seconds
